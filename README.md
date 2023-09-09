@@ -58,7 +58,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://karthikeyakollu.me)
 
-- 📝 I regularly write articles on [My Blog](blog.karthikeyakollu.me)
+- 📝 I regularly write articles on [My Blog](https://blog.karthikeyakollu.me)
 
 - 💬 Ask me about **NextJS, ReactJS, Redis etc.**
 
