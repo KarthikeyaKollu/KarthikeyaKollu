@@ -2,7 +2,9 @@
 
 <h3 align="center">Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am a Full Stack Developer with ReactJS</h3>
 
-###
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&width=500&lines=I+am+passionate+Full+Stack+Developer;Enthusiastic+to+develop+websites" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
   <img height="175" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -31,6 +33,8 @@
   </a>
 </div>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyakollu&theme=transparent&hide_border=true" alt="karthikeya" /></p>
+
 ###
 
 <div align="center">
@@ -43,9 +47,30 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Opensource Contributions<br><br>🌱 I’m currently learning DevOps, Backend technologies<br><br>👯 I’m looking to collaborate on Opensource Contributions<br><br>👨‍💻 All of my projects are available here<br><br>📝 I regularly write articles on My Blog<br><br>💬 Ask me about NextJS, ReactJS, Redis etc.<br><br>📫 Reach me here<br><br>📄 Know about my experiences Here!<br><br>⚡ Fun fact The term 'stack' in full-stack refers to the layers of technology used, just like a stack of pancakes - from front-end (the top) to back-end (the bottom)!</p>
 
-###
+- 🔭 I’m currently working on **Opensource Contributions**
+
+- 🌱 I’m currently learning **DevOps, Backend technologies**
+
+- 👯 I’m looking to collaborate on **Opensource Contributions**
+  
+<!-- - 🤝 I’m looking for help with **Opensource Contributions** -->
+
+- 👨‍💻 All of my projects are available [here](https://karthikeyakollu.me)
+
+- 📝 I regularly write articles on [My Blog](blog.karthikeyakollu.me)
+
+- 💬 Ask me about **NextJS, ReactJS, Redis etc.**
+
+- 📫 Reach me [here](mailto:mail@karthikeyakollu.me)
+
+<!-- - 📄 Know about my experiences [Here!]() -->
+
+- 💡 Did you know that the term *stack* in **full-stack** actually draws an analogy to a stack of pancakes, symbolizing the layers of technology, with the front-end at the top and the back-end at the bottom?
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaKollu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -86,9 +111,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaKollu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyaKollu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=KarthikeyaKollu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyaKollu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="200" alt="languages graph" /> 
 </div>
-
-###
